@@ -3,7 +3,7 @@ This project demonstrates an **autonomous obstacle-avoiding robot** that uses tw
 The system uses **ultrasonic sensors** to detect obstacles and **LED indicators** to display system status and issues.  
 Motor control is handled through an **L298N motor driver**, powered by a 12V battery pack regulated by a **step-down converter**. The robot can also be manually controlled through an app using a bluetooth connection.
 
-## 🧩 Components Used
+## Components Used
 
 | Component | Quantity | Description |
 |------------|-----------|-------------|
@@ -55,7 +55,7 @@ Motor control is handled through an **L298N motor driver**, powered by a 12V bat
 - **RX2 (ESP32)** → **TX (Nano BLE 33)**
 - Communication is based on **Serial UART** protocol for reliable command transfer.
 
-## ⚙️ Wiring Summary
+## Wiring Summary
 
 ### ESP32 Connections
 | ESP32 Pin | Component | Function |
