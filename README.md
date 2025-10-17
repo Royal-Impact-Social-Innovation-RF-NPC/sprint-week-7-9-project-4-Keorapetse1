@@ -135,5 +135,18 @@ A hands-on robotics enthusiast exploring embedded systems, wireless communicatio
 
 ![IMG_20251010_143951](https://github.com/user-attachments/assets/9909cac4-71df-4c80-aa1c-465c5789b5a6)
 
+![IMG_20251015_100857](https://github.com/user-attachments/assets/79e9ba66-1812-47bb-8790-fecfca8d03ce)
+
+![IMG_20251015_122809](https://github.com/user-attachments/assets/15890ea3-9284-436d-927e-65677b3c0c29)
+
+![IMG_20251015_144953](https://github.com/user-attachments/assets/a531d60f-bd9f-4c4c-8d2a-abecd86d54df)
+
+![IMG_20251017_095941](https://github.com/user-attachments/assets/dcaa99db-7d12-4851-847d-5b4d96848f56) 
+
+![IMG_20251017_100002](https://github.com/user-attachments/assets/9ee8272d-1727-4b84-9eb4-c01ea304f2a6)
+
+![IMG_20251015_144953](https://github.com/user-attachments/assets/97959c74-89dc-4c66-a702-3736d0dd34e6)
+
+
 ### this is how the app will look
 ![Screenshot_20251011_115544_appinventor_ai_theontate1_Assistive_bot_Screen1](https://github.com/user-attachments/assets/0b76ebcf-c406-4faa-a2e3-a11241587fba)
